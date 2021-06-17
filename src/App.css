@@ -43,19 +43,20 @@
 
 .flwr{
   top: 45%;
-  left: 47%;
+  left: 45%;
   image-rendering: pixelated;
   position: absolute;
   width: 50px;
   height: auto;
-  clip: rect(50px, 100px, 200px, 0);
+  clip: rect(52px, 100px, 200px, 0);
 }
 .flwr1{
   top: 45%;
-  left: 47%;
+  left: 45%;
   image-rendering: pixelated;
   position: absolute;
   width: 50px;
   height: auto;
-  clip: rect(0px, 100px, 50px, 0px);
+  clip: rect(0px, 100px, 55px, 0px);
 }
+
